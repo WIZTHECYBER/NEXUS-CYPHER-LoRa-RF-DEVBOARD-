@@ -1,5 +1,5 @@
 #*** NEXUS-CYPHER-LoRa-RF-DEVBOARD-***
-<img width="852" height="807" alt="image" src="https://github.com/user-attachments/assets/bf65cb70-9700-43ee-a694-0bd7f5cbfbb6" />
+<img width="1918" height="993" alt="image" src="https://github.com/user-attachments/assets/4be24ebe-e984-47d5-983a-9172963edf17" />
 hey cuzzies , i was just sitting in my room wondering how these things actually works so decided to make the long range radio frequency devboard , i spent three days in week , not continuesly , lol
 On first day , i made out schematics and assign the footprints
 <img width="1919" height="1079" alt="Screenshot 2026-03-30 033805" src="https://github.com/user-attachments/assets/83081159-aaff-43bf-a034-6e7efe503894" />
