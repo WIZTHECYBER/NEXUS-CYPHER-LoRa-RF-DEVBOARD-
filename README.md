@@ -7,5 +7,5 @@ On first day , i made out schematics and assign the footprints
 Well on second day , i arranged them and draw edges cuts around it but i had to arrange them again in the way that routing look clean 
 On third day i spend the whole fcking 16 hours to route it and arranging components in the way so current flow look clean 
 <img width="1918" height="1078" alt="lala" src="https://github.com/user-attachments/assets/df06ef26-df8a-4399-8369-8bfc34f27f59" />
-<img width="853" height="808" alt="Screenshot 2026-04-18 134143" src="https://github.com/user-attachments/assets/54ce2743-2203-4596-83aa-c02e39661262" />
+<img width="1918" height="993" alt="image" src="https://github.com/user-attachments/assets/0830f23d-783f-4790-b3c5-fb14daa8c009" />
 and now finally its complete 
