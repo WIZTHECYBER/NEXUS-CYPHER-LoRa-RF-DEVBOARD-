@@ -19,6 +19,19 @@ The Nexus Cypher is a custom, open-source Long Range (LoRa) radio frequency devb
 * **Power:** AP2112K-3.3V LDO
 * **Extras:** USB-C, 0.96" OLED header, Reset & Boot buttons.
 
+## Schematics 
+<img width="1283" height="836" alt="Screenshot 2026-03-30 024654" src="https://github.com/user-attachments/assets/c6413717-07d1-4046-96aa-68a0806cc8d6" />
+
+## PCB routing 
+<img width="654" height="789" alt="Screenshot 2026-04-18 121721" src="https://github.com/user-attachments/assets/e3c543b0-8557-4793-b198-113bbf8ba515" />
+<img width="1256" height="723" alt="Screenshot 2026-04-18 122549" src="https://github.com/user-attachments/assets/0666ffb0-5f84-406b-97cb-aaf0318e7531" />
+<img width="717" height="693" alt="Screenshot 2026-04-18 132426" src="https://github.com/user-attachments/assets/99c7b23f-eb53-4e4a-b326-8e995ffb42ad" />
+
+## FINAL PCB 
+<img width="1919" height="994" alt="Screenshot 2026-04-24 202827" src="https://github.com/user-attachments/assets/9046c32f-5b22-47ef-8fc6-dc9d4684b6b3" />
+
+
+
 ## 💀 The "Wall of Shame" (Dev Journal)
 I spent like 16 hours hyper-focusing on impedance matching and RF traces. I thought I was a genius. Then I submitted it for review and got hit with reality. Here is everything that went wrong and how I fixed it:
 
