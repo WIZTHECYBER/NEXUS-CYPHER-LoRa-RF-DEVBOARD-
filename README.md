@@ -1,4 +1,6 @@
 #*** NEXUS-CYPHER-LoRa-RF-DEVBOARD-***
+## About The Nexus Cypher
+Nexus Cypher is a custom open-source hardware devboard built around the RP2040 for long-range radio frequency communication. Designed in KiCad.
 <img width="1918" height="993" alt="image" src="https://github.com/user-attachments/assets/4be24ebe-e984-47d5-983a-9172963edf17" />
 hey cuzzies , i was just sitting in my room wondering how these things actually works so decided to make the long range radio frequency devboard , i spent three days in week , not continuesly , lol
 On first day , i made out schematics and assign the footprints
